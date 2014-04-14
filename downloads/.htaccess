@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile E:/ObrienSales/website/downloads/.htpasswd  
+require valid-user
